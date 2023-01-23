@@ -1,5 +1,5 @@
 # React ToDo App
-    [DEMO LINK](https://vitalii-heiko.github.io/react_todo-app-with-api/)
+   - [DEMO LINK](https://vitalii-heiko.github.io/react_todo-app-with-api/)
 
 # Description:
 
