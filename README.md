@@ -3,7 +3,7 @@
 
 # Description:
 
-A simple ToDo App
+A simple ToDo App to help you stay organized and manage your day-to-day. 
 
 # Technologies:
 
